@@ -79,6 +79,121 @@ p{
 }
 
 
+/* Start of What we  */
+
+#containerC{
+    text-align: center;
+    background-color: whitesmoke;
+    height: auto;
+    width: 100%;
+    color: whitesmoke;
+   
+    
+    
+}
+.what{
+    padding: 50px;
+}
+.items{
+   justify-content: center;
+     display: flex;
+     justify-content: space-evenly;
+     padding-top: 60px;
+    
+}
+span{
+    color: black;
+}
 
 
-/* <!-- End of About us Delani Studio --> */
+/* Start of Portfolio */
+
+.itemsX{
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    justify-content: space-evenly;
+   
+    
+    
+}
+.we-2{
+    width: 70%;
+    padding-right: 20px;
+}
+.images{
+    padding: 10px;
+
+}
+
+/* Start of Contact */
+
+#containerD{
+    text-align: center;
+    background-image: url("assets/backgrounds/c_image.jpg");
+    background-size: 100% 100%;
+    height: 600px;
+    width: 100%;
+    color: whitesmoke;
+   
+    
+    
+}
+
+.input{
+    display: flex;
+    
+}
+.name{
+    width: 45%;
+    margin: 30px;
+}
+
+.names{
+    width: 90%;
+    margin-left: 50px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    background: transparent;
+    color: whitesmoke;
+    
+}
+#height{
+    height: 300px;
+
+}
+
+#width{
+    height: 60px;
+    padding-left: 20px;
+
+
+}
+
+/* Start of Social icons  */
+
+#containerO{
+    text-align: center;
+    background-color: whitesmoke;
+    height: auto;
+    width: 100%;
+    
+    
+   
+    
+    
+}
+
+.icon{
+    margin: 20px;
+    padding: 50px;
+    
+}
+
+.chat{
+    margin: 40px;
+    
+  
+}
