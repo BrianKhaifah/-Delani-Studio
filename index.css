@@ -81,6 +81,10 @@ p{
 
 /* Start of What we  */
 
+.row{
+    display: flex;
+}
+
 #containerC{
     text-align: center;
     background-color: whitesmoke;
@@ -125,6 +129,10 @@ span{
     padding: 10px;
 
 }
+
+/* end of What we  */
+
+
 
 /* Start of Contact */
 
