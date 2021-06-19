@@ -83,9 +83,57 @@ p{
 
 /* Start of What we  */
 
-.row{
+/* .row{
     display: flex;
+} */
+#design-p,
+#dev-p,
+#product-p{
+    color: black;
+    font-size: 14px;
+     /* display: none;  */
 }
+.image img{
+    cursor: pointer;
+}
+
+.rap{
+    position: relative;
+    margin: 0px;
+    padding: 10px;
+    /* position: absolute; */
+
+    
+}
+ 
+.name {
+    /* position: absolute; */
+    /* align-items: center; */
+    
+    padding: 15px 30px;
+    /* position: absolute; */
+    position: absolute;
+  /* top: 50%;
+  left: 50%; */
+  justify-content: center;
+ 
+  padding: 60px 80px;
+ 
+   display: none;
+   
+  
+  bottom:  75px;
+  right: 10px;
+  
+    
+}
+.name:hover{
+    background-color: rgba(0, 0, 0, 0.7);
+    display: unset;
+    color: red;
+}
+
+
 
 
 #containerC{
@@ -129,10 +177,10 @@ span{
     display: flex;
     
 }
-.name{
+/* .name{
     width: 45%;
     margin: 30px;
-}
+} */
 
 .names{
     width: 90%;
