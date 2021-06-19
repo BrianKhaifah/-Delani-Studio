@@ -1,59 +1,64 @@
-/* <!-- Start of landing page Delani Studio --> */
+/* <!-- Start of landing page --> */
 
 
-#container{
+#container {
     text-align: center;
     background-image: url("assets/backgrounds/h_img.jpg");
     background-size: 100% 100%;
     height: auto;
     width: 100%;
 }
-.delani{
+
+.delani {
     padding-top: 50px;
     color: white;
     padding: 90px;
     height: 700px;
-    
+
 }
-.studio{
+
+.studio {
     padding-top: 150px;
 }
-.studio h1{
+
+.studio h1 {
     font-size: 50px;
 
 }
 
-.studio h4{
+.studio h4 {
     font-size: 25px;
 
 }
 
-/* <!-- Start of About us Delani Studio --> */
+/* <!-- Start of About us --> */
 
 /* Page A */
 
 
-#containerA{
+#containerA {
     text-align: center;
     background-color: whitesmoke;
     height: 600px;
     width: 100%;
 }
-.about{
+
+.about {
     padding: 50px;
 }
-h2{
+
+h2 {
     font-size: 40px;
 }
 
-p{
+p {
     font-size: 25px;
 
 }
 
 /* page B */
 
-#containerB{
+#containerB {
     text-align: center;
     background-image: url("assets/backgrounds/s_image.jpg");
     background-size: 100% 100%;
@@ -61,21 +66,22 @@ p{
     width: 100%;
     color: whitesmoke;
 }
-.about{
+
+.about {
     padding: 50px;
     padding-top: 70px;
 }
 
-.us{
-   
+.us {
+
     padding-top: 70px;
 }
 
-h2{
+h2 {
     font-size: 40px;
 }
 
-p{
+p {
     font-size: 25px;
 
 }
@@ -83,150 +89,128 @@ p{
 
 /* Start of What we  */
 
-/* .row{
-    display: flex;
-} */
 #design-p,
 #dev-p,
-#product-p{
+#product-p {
     color: black;
     font-size: 14px;
-     /* display: none;  */
+    display: none;
 }
-.image img{
+
+.image img {
     cursor: pointer;
 }
 
-.rap{
+.rap {
     position: relative;
     margin: 0px;
     padding: 10px;
-    /* position: absolute; */
 
-    
+
+
 }
- 
+
 .name {
-    /* position: absolute; */
-    /* align-items: center; */
-    
+
     padding: 15px 30px;
-    /* position: absolute; */
     position: absolute;
-  /* top: 50%;
-  left: 50%; */
-  justify-content: center;
- 
-  padding: 60px 80px;
- 
-   display: none;
-   
-  
-  bottom:  75px;
-  right: 10px;
-  
-    
+    justify-content: center;
+    padding: 60px 80px;
+    display: none;
+    bottom: 75px;
+    right: 10px;
+
+
 }
-.name:hover{
+
+.name:hover {
     background-color: rgba(0, 0, 0, 0.7);
     display: unset;
     color: red;
 }
 
-
-
-
-#containerC{
+#containerC {
     text-align: center;
     background-color: whitesmoke;
     height: auto;
     width: 100%;
     color: whitesmoke;
-   
-    
-    
 }
 
-.items{
-   justify-content: center;
-     display: flex;
-     justify-content: space-evenly;
-     padding-top: 60px;
-    
+.items {
+    justify-content: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 60px;
+
 }
-span{
+#portfolio {
+    margin: 40px 10% 0px 10%;
+  }
+
+span {
     color: black;
 }
 
 
 /* Start of Contact */
 
-#containerD{
+#containerD {
     text-align: center;
     background-image: url("assets/backgrounds/c_image.jpg");
     background-size: 100% 100%;
     height: 600px;
     width: 100%;
     color: whitesmoke;
-   
-    
-    
+
 }
 
-.input{
+.input {
     display: flex;
-    
-}
-/* .name{
-    width: 45%;
-    margin: 30px;
-} */
 
-.names{
+}
+
+.names {
     width: 90%;
     margin-left: 50px;
 }
-input{
+
+input {
     width: 100%;
     padding: 10px;
     background: transparent;
     color: whitesmoke;
-    
+
 }
-#height{
+
+#height {
     height: 300px;
 
 }
 
-#width{
+#width {
     height: 60px;
     padding-left: 20px;
-
 
 }
 
 /* Start of Social icons  */
 
-#containerO{
+#containerO {
     text-align: center;
     background-color: whitesmoke;
     height: auto;
     width: 100%;
-    
-    
-   
-    
-    
 }
 
-.icon{
+.icon {
     margin: 20px;
     padding: 50px;
-    
+
 }
 
-.chat{
+.chat {
     margin: 40px;
-    
-  
+
+
 }
