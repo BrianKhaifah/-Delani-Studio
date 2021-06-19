@@ -13,7 +13,7 @@
     padding-top: 50px;
     color: white;
     padding: 90px;
-    height: 700px;
+    height: 900px;
 
 }
 
@@ -23,12 +23,13 @@
 
 .studio h1 {
     font-size: 50px;
+    padding-top: 20px;
 
 }
 
 .studio h4 {
     font-size: 25px;
-    padding-top: 30px;
+    padding-top: 40px;
 
 }
 
@@ -50,6 +51,7 @@
 
 h2 {
     font-size: 40px;
+    padding: 30px;
 }
 
 p {
