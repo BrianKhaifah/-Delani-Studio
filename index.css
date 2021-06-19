@@ -28,6 +28,7 @@
 
 .studio h4 {
     font-size: 25px;
+    padding-top: 30px;
 
 }
 
@@ -170,17 +171,30 @@ span {
 
 }
 
-.names {
-    width: 90%;
-    margin-left: 50px;
+.forms {
+    width: 1200px;
+    
+}
+#width{
+    width: 500px;
+    margin-left: 130px;
+    margin: 40px;
+    height: 40px;
 }
 
 input {
     width: 100%;
-    padding: 10px;
     background: transparent;
     color: whitesmoke;
 
+}
+.con{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+::placeholder{
+    color: white;
 }
 
 #height {
@@ -188,11 +202,7 @@ input {
 
 }
 
-#width {
-    height: 60px;
-    padding-left: 20px;
 
-}
 
 /* Start of Social icons  */
 
