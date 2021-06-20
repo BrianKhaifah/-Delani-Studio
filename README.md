@@ -1,29 +1,28 @@
-## **THE AKAN FAMILY**
+## **DELANI STUDIO**
 
 
-![Portfolio](assets/backgrounds/h_img.jpn)
+![Portfolio](img/h_img.jpg)
 
 ## **Description**
-####  Akan, ethnolinguistic grouping of peoples of the Guinea Coast who speak Akan languages (of the Kwa branch of the Niger-Congo family).AKAN,names come from a traditional naming system for people from countries such as Togo, Ivory Coast and Ghana.A child’s name is determined by factors surrounding his or her birth. For example, the day of their birth or the manner in which they were born may determine which name they get irrespective of their gender. 
+####  When you work with us, you are part of a team of committed collaborators and agile. Our approach unifies design, development and product management to create exceptional products we start each project by understanding your business goals,the use's needs and the products requirements Then we help translate them into effective and elegant solutions.
+                    
                   
 
 
->  These Akan names signify the day one is born..The table bellow provide a few factors and occurrence that lead to one's naming
+> The table bellow provide a list of what we do..
 
-| Factor | Name | Gender | M/F |
+|  |  |  |  |
 | ---   |  ---     | ---  | --- |
-| On the field  |  Afúom  | - | -
-| On the road   |  Ɔkwán  | - | -
-| Responsibility   |  Yεmpέw  | - | -
-| First born  |  Píèsíe  | Male | 
-| Second born | Mǎnu| Male  
-|        | Máanu  |    -    | Female
-| In war   | Bekṍe | Male  
-|        | Bedíàkṍ |    -    | Female
+| DESIGN  | - | Our design practice offers a full range of services including ; | 
+|   |   | brand strategy, interaction and visual design and user experience testing| 
+| DEVELOPMENT  | - | All engineers are fluent in the latest enterprise, mobile and web development technologies.They collaborate with your team to write, and improve code on a daily basis,Using| 
+|   |   | test-driven development and pair programming.| 
+| PRODUCT MANAGEMENT  | - | Planning and development is iterative. Because we are constantly coding and testing | 
+|   |   | | 
 |       |        |       |
 
 ## **Contributors**
-#### The website was brought to life by : [**Brian Khaifah**](https://moringaschool.com/)
+#### The website was worked on by : [**Brian Khaifah**](https://moringaschool.com/)
 
 
 ## **Setup/Installation**
@@ -32,6 +31,12 @@
           git clone https://github.com/BrianKhaifah/The-Akan-Family..git
 
       ```
+
+     * ```
+          - Unzip the Clone file
+
+          - Navigate int the unzip the file
+           
 * Open the project on vs code or your desired editor.
 
 * Open the project on live Server.
@@ -39,7 +44,8 @@
 
 
 ##  **known Bugs**
-#### There are no Bugs, but should you come across feel free share it with me via my,
+#### Does not validate if email input is not an email.
+#### Should come across any other issue share it with me via my,
 
 Personal
 [Email](brian.obuom@student.moringaschool.com)
