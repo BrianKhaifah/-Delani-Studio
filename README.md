@@ -28,7 +28,7 @@
 ## **Setup/Installation**
 * Clone the Repo.
     * ```
-          git clone https://github.com/BrianKhaifah/The-Akan-Family..git
+          git clone https://github.com/BrianKhaifah/-Delani-Studio.git
 
       ```
 
