@@ -18,12 +18,12 @@
 }
 
 .studio {
-    padding-top: 150px;
+    padding-top: 250px;
 }
 
 .studio h1 {
     font-size: 50px;
-    padding-top: 20px;
+    padding-top: 30px;
 
 }
 
@@ -125,6 +125,7 @@ p {
 
 .name:hover {
     background-color: rgba(0, 0, 0, 0.7);
+    border: 5px solid white;
     display: unset;
     color: red;
 }
