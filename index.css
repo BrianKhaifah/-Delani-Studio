@@ -177,12 +177,19 @@ span {
     width: 1200px;
     
 }
-#width{
+#mce-NAME{
     width: 500px;
     margin-left: 130px;
     margin: 40px;
     height: 40px;
 }
+#mce-EMAIL{
+    width: 500px;
+    margin-left: 130px;
+    margin: 40px;
+    height: 40px;
+}
+
 
 input {
     width: 100%;
@@ -199,7 +206,7 @@ input {
     color: white;
 }
 
-#height {
+#mce-MESSAGE {
     height: 300px;
 
 }
